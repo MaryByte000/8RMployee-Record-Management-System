@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_name_styled">
+        <font color='#4CAF50'>8</font><font color='#1976D2'>RM</font><font color='#FFC107'>ployee</font>
+    </string>
+    <string name="image_description">8RM Logo</string>
+    <string name="record_ms">Record Management System</string>
+    <string name="admin">Admin PIN</string>
+    <string name="login">LOG IN</string>
+    <string name="company">8RM Utility Projects Construction"</string>
+</resources>
