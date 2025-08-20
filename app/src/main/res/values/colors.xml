@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colors for the progress bar gradient -->
+    <color name="gradient_start">#2E6D82</color>
+    <color name="gradient_center">#85C14A</color>
+    <color name="gradient_end">#FAD754</color>
+</resources>
